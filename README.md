@@ -122,7 +122,7 @@ Voici les projets que je souhaite mettre en avant au fil de mon apprentissage.
 
 ---
 
-## 💜 Ma philosophie
+## Ma philosophie
 
 <div align="center">
 
@@ -134,7 +134,7 @@ Voici les projets que je souhaite mettre en avant au fil de mon apprentissage.
 
 ---
 
-## 📫 Me retrouver
+##  Me retrouver
 
 <div align="center">
 
