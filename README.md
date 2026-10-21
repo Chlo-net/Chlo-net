@@ -134,7 +134,6 @@ Voici les projets que je souhaite mettre en avant au fil de mon apprentissage.
   </tr>
 </table>
 
-> 💡 Remplace ces exemples par tes vrais projets dès qu'ils sont disponibles. Tu peux aussi épingler tes dépôts directement sur ton profil GitHub.
 
 ---
 
