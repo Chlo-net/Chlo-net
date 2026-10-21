@@ -80,27 +80,6 @@ me.say_hello()
 
 ---
 
-## 🚀 Mes projets
-
-Voici les projets que je souhaite mettre en avant au fil de mon apprentissage.
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌐 Projet Web</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      </p>
-      <p align="center">Un site web pour pratiquer la structure HTML et le design CSS.</p>
-      <p align="center"><b>À ajouter :</b> lien vers ton dépôt.</p>
-    </td>
-    <td width="50%">
-</table>
-
-
----
-
 ## Ma philosophie
 
 <div align="center">
