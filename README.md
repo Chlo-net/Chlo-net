@@ -31,7 +31,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "TON_PSEUDO"
+        self.name = "Chlo-net"
         self.study = "BTS SIO - 1ère année"
         self.option = "SLAM"
         self.languages = ["HTML", "CSS", "Python"]
