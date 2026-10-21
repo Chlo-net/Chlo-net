@@ -84,15 +84,15 @@ me.say_hello()
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="Statistiques GitHub"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Chlo-net&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="Statistiques GitHub"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Langages les plus utilisés"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chlo-net&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Langages les plus utilisés"/>
 
 </div>
 
 <div align="center">
 
-  <img width="95%" src="https://streak-stats.demolab.com?user=TON_PSEUDO&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" alt="Série de contributions GitHub"/>
+  <img width="95%" src="https://streak-stats.demolab.com?user=Chlo-net&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" alt="Série de contributions GitHub"/>
 
 </div>
 
@@ -102,7 +102,7 @@ me.say_hello()
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TON_PSEUDO&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&custom_title=Mon%20activit%C3%A9%20GitHub" width="100%" alt="Graphique d'activité GitHub"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chlo-net&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&custom_title=Mon%20activit%C3%A9%20GitHub" width="100%" alt="Graphique d'activité GitHub"/>
 
 </div>
 
@@ -173,7 +173,7 @@ Voici les projets que je souhaite mettre en avant au fil de mon apprentissage.
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=TON_PSEUDO&style=flat-square&color=8B5CF6&label=Visites+du+profil" alt="Visiteurs du profil"/>
+  <img src="https://komarev.com/ghpvc/?username=Chlo-net&style=flat-square&color=8B5CF6&label=Visites+du+profil" alt="Visiteurs du profil"/>
 
   <br/><br/>  
 
