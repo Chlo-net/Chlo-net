@@ -8,7 +8,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Bienvenue%20sur%20mon%20profil&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Étudiant%20BTS%20SIO%20%7C%20Option%20SLAM&descAlignY=58&descSize=18" width="100%" alt="Bannière violette"/>
 
-  <h1>👋 Salut, moi c'est Chlo-net</h1>
+  <h1>👋🏻 Bonjour, moi c'est Chlo-net</h1>
 
   <h3>💻 Étudiant en BTS SIO | Option SLAM</h3>
 
