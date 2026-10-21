@@ -80,23 +80,6 @@ me.say_hello()
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Chlo-net&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="Statistiques GitHub"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chlo-net&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Langages les plus utilisés"/>
-
-</div>
-
-<div align="center">
-
-  <img width="95%" src="https://streak-stats.demolab.com?user=Chlo-net&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" alt="Série de contributions GitHub"/>
-
-</div>
-
----
 
 ## 📈 Activité GitHub
 
