@@ -80,17 +80,6 @@ me.say_hello()
 
 ---
 
-
-## 📈 Activité GitHub
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chlo-net&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&custom_title=Mon%20activit%C3%A9%20GitHub" width="100%" alt="Graphique d'activité GitHub"/>
-
-</div>
-
----
-
 ## 🚀 Mes projets
 
 Voici les projets que je souhaite mettre en avant au fil de mon apprentissage.
