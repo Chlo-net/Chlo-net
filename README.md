@@ -26,7 +26,7 @@
 
 ---
 
-## 🧑‍💻 À propos de moi
+## 👩🏻‍💻 À propos de moi
 
 ```python
 class Developer:
@@ -80,7 +80,7 @@ me.say_hello()
 
 ---
 
-## Ma philosophie
+## 🌱 Ma philosophie
 
 <div align="center">
 
@@ -92,7 +92,7 @@ me.say_hello()
 
 ---
 
-##  Me retrouver
+## 💾 Me retrouver
 
 <div align="center">
 
@@ -106,7 +106,7 @@ me.say_hello()
 
   <br/><br/>  
 
-  <i>Merci d'être passé sur mon profil </i>
+  <i>Merci d'être passé sur mon profil 🤝🏻 </i>
 
 </div>
 
