@@ -96,29 +96,8 @@ Voici les projets que je souhaite mettre en avant au fil de mon apprentissage.
       <p align="center"><b>À ajouter :</b> lien vers ton dépôt.</p>
     </td>
     <td width="50%">
-      <h3 align="center">🐍 Projet Python</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      </p>
-      <p align="center">Un programme pour découvrir la logique, les fonctions et les structures de données.</p>
-      <p align="center"><b>À ajouter :</b> lien vers ton dépôt.</p>
-    </td>
-  </tr>
 </table>
 
-
----
-
-## 🎯 Mes objectifs
-
-- [x] Découvrir HTML et CSS
-- [x] Commencer à apprendre Python
-- [ ] Réaliser un site web complet et responsive
-- [ ] Approfondir Python et la programmation orientée objet
-- [ ] Apprendre SQL et la gestion des bases de données
-- [ ] Découvrir PHP et JavaScript
-- [ ] Construire un portfolio de projets
-- [ ] Développer mes compétences en développement logiciel
 
 ---
 
