@@ -148,7 +148,7 @@ Voici les projets que je souhaite mettre en avant au fil de mon apprentissage.
 
   <br/><br/>  
 
-  <i>Merci d'être passé sur mon profil ! ⭐</i>
+  <i>Merci d'être passé sur mon profil </i>
 
 </div>
 
