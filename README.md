@@ -10,7 +10,7 @@
 
   <h1>👋🏻 Bonjour, moi c'est Chlo-net</h1>
 
-  <h3>💻 Étudiant en BTS SIO | Option SLAM</h3>
+  <h3>💻 Étudiante en BTS SIO | Option SLAM</h3>
 
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Passionn%C3%A9+par+le+d%C3%A9veloppement+%F0%9F%92%BB;J'apprends+%C3%A0+coder+chaque+jour+%F0%9F%9A%80;HTML+%7C+CSS+%7C+Python;Bienvenue+dans+mon+univers+%E2%9C%A8" alt="Texte animé"/>
