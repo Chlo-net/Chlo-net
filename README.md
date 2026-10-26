@@ -1,7 +1,6 @@
 
 <!--
   README de profil GitHub
-  Remplace TON_PSEUDO par ton identifiant GitHub.
 -->
 
 <div align="center">
